@@ -6,7 +6,7 @@ I wanted a quick way to export my firebase collections to Typescript interfaces.
 
 ### Getting Started
 
-_NOTE: This does not support subcollections currently_
+_NOTE: This does not support subcollections and references currently_
 
 Before coding, you need to set up your admin secret credentials through firebase.
 [firebase.google.com/docs/admin/setup](https://firebase.google.com/docs/admin/setup)
