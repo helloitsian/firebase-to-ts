@@ -8,7 +8,7 @@ I wanted a quick way to export my firebase collections to Typescript interfaces.
 
 _NOTE: This does not support subcollections currently_
 
-Before coding, you need to set up your admin secret credentials through firestore.
+Before coding, you need to set up your admin secret credentials through firebase.
 [firebase.google.com/docs/admin/setup](https://firebase.google.com/docs/admin/setup)
 
 ```
